@@ -10,6 +10,6 @@ deploy:
  provider: pages
  skip_cleanup: true
  github_token: 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
- local_dir: dist
+ local_dir: .
  on:
    branch: main
